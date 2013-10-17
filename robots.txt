@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://PuttingTheDnDInTDD.github.io/sitemap.xml 
